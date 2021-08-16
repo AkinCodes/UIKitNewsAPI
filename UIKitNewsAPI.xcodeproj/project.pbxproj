@@ -16,6 +16,7 @@
 		180476F326CA763F00D4399F /* GuardianResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180476F226CA763F00D4399F /* GuardianResponse.swift */; };
 		180476F626CA766A00D4399F /* GuardianResults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180476F526CA766A00D4399F /* GuardianResults.swift */; };
 		180476F926CA768900D4399F /* Guardian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180476F826CA768900D4399F /* Guardian.swift */; };
+		180476FC26CA776700D4399F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180476FB26CA776700D4399F /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		180476F226CA763F00D4399F /* GuardianResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuardianResponse.swift; sourceTree = "<group>"; };
 		180476F526CA766A00D4399F /* GuardianResults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuardianResults.swift; sourceTree = "<group>"; };
 		180476F826CA768900D4399F /* Guardian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Guardian.swift; sourceTree = "<group>"; };
+		180476FB26CA776700D4399F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,7 @@
 				180476F226CA763F00D4399F /* GuardianResponse.swift */,
 				180476F526CA766A00D4399F /* GuardianResults.swift */,
 				180476F826CA768900D4399F /* Guardian.swift */,
+				180476FB26CA776700D4399F /* DetailViewController.swift */,
 				180476DC26CA761700D4399F /* UIKitNewsAPI */,
 				180476DB26CA761700D4399F /* Products */,
 			);
@@ -152,6 +155,7 @@
 				180476E026CA761700D4399F /* SceneDelegate.swift in Sources */,
 				180476F326CA763F00D4399F /* GuardianResponse.swift in Sources */,
 				180476F626CA766A00D4399F /* GuardianResults.swift in Sources */,
+				180476FC26CA776700D4399F /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
